@@ -1,11 +1,10 @@
-[![MasterHead](https://www.canva.com/design/DAEymwIXu_g/oUqL4MeNwrhIZ20gbD94CQ/view?utm_content=DAEymwIXu_g&utm_campaign=designshare&utm_medium=link&utm_source=shareyourdesignpanel)]
+<h1 align="center">
+ <img src="https://github.com/jayant0121/github-banner/blob/02640fa038cee33db5f9ce17c802bf19bb6c87ad/banner_github.jpg?raw=true" />
+</h1>
 <h1 align="center">Hi 👋, I'm Jayant Asudhani</h1>
 <h3 align="center">A passionate game developer and Coder</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayant0121&label=Profile%20views&color=0e75b6&style=flat" alt="jayant0121" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayant0121" alt="jayant0121" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/jayant9882" target="blank"><img src="https://img.shields.io/twitter/follow/jayant9882?logo=twitter&style=for-the-badge" alt="jayant9882" /></a> </p>
 
 - 🔭 I’m currently working on **AR-VR**
